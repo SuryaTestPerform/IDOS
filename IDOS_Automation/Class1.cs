@@ -8,5 +8,9 @@ namespace IDOS_Automation
 {
     public class Class1
     {
+        public void Test()
+        {
+            string s = "test";
+        }
     }
 }
